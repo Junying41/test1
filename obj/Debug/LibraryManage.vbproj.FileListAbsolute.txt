@@ -1,0 +1,132 @@
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\bin\Debug\LibraryManage.exe
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\bin\Debug\LibraryManage.pdb
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\bin\Debug\LibraryManage.xml
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\ResolveAssemblyReference.cache
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.Main.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.Resources.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.vbproj.GenerateResource.Cache
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.exe
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.xml
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.pdb
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAbout.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmLogin.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangPwd.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmTaffManage.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmUserManage.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAddBook.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangBook.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookReturn.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookBorrow.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmPayOff.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmSplash.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.exe
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.xml
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.pdb
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\bin\Debug\LibraryManage.exe
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\bin\Debug\LibraryManage.pdb
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\bin\Debug\LibraryManage.xml
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAbout.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAddBook.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookReturn.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookBorrow.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangBook.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangPwd.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmLogin.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmPayOff.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmSplash.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmTaffManage.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.Main.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.Resources.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmUserManage.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.vbproj.GenerateResource.Cache
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\bin\Debug\LibraryManage.exe.config
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\bin\Debug\bin\Debug\Source.mdb
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAddUser.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangeUser.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookManage.resources
+E:\Documents and Settings\浪迹天涯\桌面\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookSelect.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\bin\Debug\LibraryManage.exe.config
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\bin\Debug\bin\Debug\Source.mdb
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmAddUser.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookSelect.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmBookManage.resources
+F:\STUDY\内存卡\学习资料\VB 2005 程序\LibraryManage\LibraryManage\obj\Debug\LibraryManage.frmChangeUser.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\bin\Debug\LibraryManage.exe.config
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.exe
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.xml
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.pdb
+C:\Users\Administrator\Desktop\Code\LibraryManage\bin\Debug\bin\Debug\Source.mdb
+C:\Users\Administrator\Desktop\Code\LibraryManage\bin\Debug\LibraryManage.exe
+C:\Users\Administrator\Desktop\Code\LibraryManage\bin\Debug\LibraryManage.pdb
+C:\Users\Administrator\Desktop\Code\LibraryManage\bin\Debug\LibraryManage.xml
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmAbout.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmAddBook.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmAddUser.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmBookReturn.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmBookSelect.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmBookBorrow.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmChangBook.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmChangPwd.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmBookManage.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmChangeUser.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmLogin.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmPayOff.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmSplash.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmTaffManage.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.Main.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.Resources.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.frmUserManage.resources
+C:\Users\Administrator\Desktop\Code\LibraryManage\obj\Debug\LibraryManage.vbproj.GenerateResource.Cache
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\bin\Debug\LibraryManage.exe.config
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.exe
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.xml
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.pdb
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\bin\Debug\bin\Debug\Source.mdb
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\bin\Debug\LibraryManage.exe
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\bin\Debug\LibraryManage.pdb
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\bin\Debug\LibraryManage.xml
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmAbout.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmAddBook.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmAddUser.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmBookReturn.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmBookSelect.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmBookBorrow.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmChangBook.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmChangPwd.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmBookManage.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmChangeUser.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmLogin.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmPayOff.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmSplash.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmTaffManage.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.Main.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.Resources.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.frmUserManage.resources
+E:\源码审核\2015\12月\图书管理系统\Code\LibraryManage\obj\Debug\LibraryManage.vbproj.GenerateResource.Cache
+C:\Users\ABC\Downloads\LibraryManagement777777777777\bin\Debug\LibraryManage.exe.config
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.xml
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.pdb
+C:\Users\ABC\Downloads\LibraryManagement777777777777\bin\Debug\bin\Debug\Source.mdb
+C:\Users\ABC\Downloads\LibraryManagement777777777777\bin\Debug\LibraryManage.exe
+C:\Users\ABC\Downloads\LibraryManagement777777777777\bin\Debug\LibraryManage.pdb
+C:\Users\ABC\Downloads\LibraryManagement777777777777\bin\Debug\LibraryManage.xml
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmAbout.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmAddBook.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmAddUser.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmBookReturn.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmBookSelect.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmBookBorrow.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmChangBook.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmChangPwd.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmBookManage.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmChangeUser.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmLogin.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmPayOff.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmSplash.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmTaffManage.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.Main.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.Resources.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.frmUserManage.resources
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.vbproj.GenerateResource.Cache
+C:\Users\ABC\Downloads\LibraryManagement777777777777\obj\Debug\LibraryManage.exe
